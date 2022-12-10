@@ -1,0 +1,32 @@
+.container {
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    opacity: 0.9;
+    
+    
+}
+
+
+
+.navlogo {
+    font-weight: 700px;
+    font-size: 30px;
+    margin: 15px;
+    color: red;
+    
+}
+
+.home,
+.about {
+    color: white;
+    font-size: 18px;
+    
+    display: flex;
+    justify-content: right;
+   
+  
+
+}

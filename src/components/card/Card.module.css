@@ -1,0 +1,40 @@
+.container {
+    width: fit-content;
+    height: fit-content;
+    padding: 100px;
+    
+    
+}
+
+.text {
+    color: black;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3 {
+    margin-left: 220px;
+    display: flex;
+    align-items: flex-start;
+    justify-content:space-between ;
+}
+
+
+
+
+.boton {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: green;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        height: fit-content;
+        font-size: 18px;
+}

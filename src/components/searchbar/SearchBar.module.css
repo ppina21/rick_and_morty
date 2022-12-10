@@ -1,0 +1,51 @@
+.searchBar {
+    width: fit-content;
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    border-radius: 0.5rem;
+    border: 1px solid ;
+    margin-right: 0.25rem;
+    
+}
+
+
+.input {
+    width:calc(22vw - 1.25rem - 5rem); 
+    border: none;
+    background-color: transparent;  
+    padding: 1px 1rem;
+    color: white;
+
+}
+
+.input::placeholder {
+    color: white;
+}
+
+
+.input:focus {
+    outline: none;
+}
+
+
+
+.button {
+    border-radius: 9999px;
+    border: solid 1px ;
+    background-color: transparent; 
+    color: green;
+    width: 1.75rem;
+    height: 1.75rem;
+    
+    
+}
+
+.icon {
+    color: green;
+    font-size: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0.25rem;
+    
+}

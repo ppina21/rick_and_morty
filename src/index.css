@@ -1,0 +1,41 @@
+body { 
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 18px;
+    background-image: url("./components/imagenes/70570-rick-and-morty-tv-shows-hd-4k-deviantart.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;   
+
+    
+    max-height: 100vw;
+    max-width: 100vw;
+    
+}
+
+ /* font-family: 'Zen Dots',
+ cursive; */
+
+
+/* font-family: 'Shadows Into Light',
+cursiva; */
+
+
+
+
+
+
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./components/imagenes/nathan-anderson-9o-VrJSwGuw-unsplash.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
